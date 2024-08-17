@@ -4,7 +4,7 @@ Hi 👋 My name is Viktor Wysluch
 Student | Freelancer
 --------------------
 
-My name is Viktor Wysluch and I am a student at the University of Duisburg-Essen. During my studies, I have gained experience in frontend and backend development, database management, Java, Python, and multiplattform Programing (Flutter/Dart).
+My name is Viktor Wysluch and I am a student at the University of Duisburg-Essen. During my studies, I have gained experience in frontend and backend development, database management, Java, Python, and multiplattform programing (Flutter/Dart).
 
 * 🌍  I'm based in Germany, NRW, Essen
 * ✉️  You can contact me at [v.wysluch19@gmail.com](mailto:v.wysluch19@gmail.com)
